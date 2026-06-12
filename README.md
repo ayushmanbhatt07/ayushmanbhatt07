@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I'm Ayushman 👋  <br><br>I'm an AI/ML enthusiast passionate about building and understanding deep learning models beyond just accuracy.  <br>Currently exploring Explainable AI (XAI), model stability, and interpretability techniques like Grad-CAM and Guided Backpropagation.<br><br>🔍 Interests:<br>- Deep Learning & Computer Vision  <br>- Model Interpretability & Explainability  <br>- Research-oriented ML projects  <br><br>⚙️ Tools & Technologies:<br>Python, PyTorch, TensorFlow, OpenCV, Scikit-learn  <br><br>📈 Always curious about how models make decisions, not just what they predict.
+Hey! I'm Ayushman 👋  <br><br>I'm an AI/ML enthusiast passionate about building and understanding deep learning models beyond just accuracy.  <br>Currently exploring Explainable AI (XAI), model stability, and interpretability techniques like Grad-CAM and Guided Backpropagation.<br><br>🔍 Interests:<br>- Deep Learning & Computer Vision  <br>- Model Interpretability & Explainability  <br>- Research-oriented ML projects  <br><br>⚙️ Tools & Technologies:<br>Python, PyTorch, TensorFlow, OpenCV, Scikit-learn,Keras, nltk <br><br>📈 Always curious about how models make decisions, not just what they predict.
 
 
 ## 🌐 Socials:
