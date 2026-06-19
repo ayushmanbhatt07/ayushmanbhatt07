@@ -1,324 +1,268 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  Ayushman Bhatt — AI Research Engineer · GitHub Profile README -->
-<!--  Theme: Tokyo Night Sky  ·  Palette: Night-Sky Research UI    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- ──────────── HERO BANNER ──────────── -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=820&height=52&lines=Ayushman+Bhatt;AI+Research+Engineer+%7C+Computer+Vision;Explainable+AI+%7C+Medical+Imaging;LLM+Engineering+%7C+Agentic+AI+Systems)](https://git.io/typing-svg)
+
+<br/>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2f,50:24283b,100:414868&height=200&section=header&text=Ayushman%20Bhatt&fontSize=42&fontColor=7aa2f7&fontAlignY=35&desc=AI%20Research%20Engineer%20%7C%20Computer%20Vision%20%7C%20LLM%20Systems&descSize=14&descColor=cdd6f4&descAlignY=60&animation=fadeIn" width="100%" />
+  <img src="https://img.shields.io/badge/XAI-Explainable%20AI-7AA2F7?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/CV-Medical%20Imaging-CBA6F7?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/LLM-Agentic%20Systems-94E2D5?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/AI-Trustworthy%20AI-89B4FA?style=flat-square&labelColor=1a1b27" />
 </p>
-<!-- ──────────── TYPING ANIMATION ──────────── -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=7AA2F7&center=true&vCenter=true&width=700&height=45&lines=Explainable+AI+%7C+Medical+Imaging+Research;Agentic+AI+%7C+LangGraph+%7C+RAG+Systems;Computer+Vision+%7C+Histopathology+%7C+Trustworthy+AI" />
-</p>
-<!-- ──────────── RESEARCH FOCUS PILLS ──────────── -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-XAI-7AA2F7?style=flat-square&labelColor=0A0F1C&logoColor=7AA2F7" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Medical_Imaging-94E2D5?style=flat-square&labelColor=0A0F1C&logoColor=94E2D5" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Agentic_AI-CBA6F7?style=flat-square&labelColor=0A0F1C&logoColor=CBA6F7" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-LLM_Systems-89B4FA?style=flat-square&labelColor=0A0F1C&logoColor=89B4FA" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Trustworthy_AI-F7768E?style=flat-square&labelColor=0A0F1C&logoColor=F7768E" />
-</p>
-<!-- ──────────── SOCIAL LINKS ──────────── -->
+
 <p align="center">
   <a href="https://linkedin.com/in/ayushman-bhatt-564927343">
-    <img src="https://img.shields.io/badge/LinkedIn-Ayushman%20Bhatt-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ayushmanbhatt07?tab=followers">
-    <img src="https://img.shields.io/github/followers/ayushmanbhatt07?label=Followers&style=flat-square&color=7AA2F7&labelColor=0A0F1C&logo=github" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ayushmanbhatt07&label=Profile%20Views&color=CBA6F7&style=flat-square" />
-</p>
-<br/>
-<br/>
-<!-- ──────────── IDENTITY ──────────── -->
-<img src="https://img.shields.io/badge/-7AA2F7?style=flat-square&logo=hack-the-box&logoColor=0A0F1C" /> $ whoami
-Python
-class AyushmanBhatt:
-    role        = "AI Research Engineer"
-    focus       = ["Explainable AI", "Medical Imaging", "Agentic AI", "LLM Systems"]
-    researching = ["XAI Attribution Methods", "Model Reliability", "Shortcut Learning",
-                   "Vision Transformers", "Multi-Agent Architectures"]
-    building    = ["Agentic Workflows with LangGraph", "RAG Pipelines",
-                   "Histopathology DL Systems", "Trustworthy AI Applications"]
-    philosophy  = "AI systems must be interpretable, reliable, and auditable — not just performant."
-<br/>
-<!-- ──────────── ENGINEERING PHILOSOPHY ──────────── -->
-<img src="https://img.shields.io/badge/-CBA6F7?style=flat-square&logo=iconify&logoColor=0A0F1C" /> Research Philosophy
-The measure of an AI system is not only what it predicts — but whether it can be understood, audited, and trusted.
-Three principles guide all work:
-Table
-Principle	Rationale
-Interpretability is non-negotiable	Black-box accuracy is insufficient for high-stakes domains. Understanding why a model decides matters as much as what it decides.
-Reliability must be measurable	Shortcut learning, distribution shift, and spurious correlations are the rule in real-world deployment — not edge cases.
-Research drives engineering	Engineering without research intuition produces brittle systems. First principles precede implementation.
-<br/>
-<br/>
-<!-- ──────────── RESEARCH SNAPSHOT ──────────── -->
-<img src="https://img.shields.io/badge/-94E2D5?style=flat-square&logo=googlescholar&logoColor=0A0F1C" /> Research Snapshot
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-Table
-Area	Focus
-Explainable AI	Attribution methods, quantitative XAI evaluation, Grad-CAM, faithfulness metrics
-Medical Imaging	Histopathology classification, stain normalization, domain-adaptive computer vision
-Trustworthy AI	Shortcut learning detection, model reliability analysis, human-centered AI design
-  </td>
-  <td width="50%" valign="top">
-Table
-Area	Focus
-Agentic AI	LangGraph workflows, multi-agent orchestration, tool-augmented reasoning
-LLM Systems	RAG pipelines, structured prompt engineering, production LLM applications
-Computer Vision	CNN architectures, Vision Transformers, transfer learning, feature extraction
-  </td>
-  </tr>
-</table>
-<br/>
-<!-- ──────────── CURRENT RESEARCH ──────────── -->
-<img src="https://img.shields.io/badge/-7AA2F7?style=flat-square&logo=gitbook&logoColor=0A0F1C" /> Current Research
-plain
-Histopathology Classification
-├── CNN model development for cancer tissue classification
-├── Stain normalization preprocessing pipelines
-├── Grad-CAM attribution overlays for clinical explainability
-└── Guided Backpropagation for feature-level interpretation
-
-Explainable AI
-├── Attribution method benchmarking (Grad-CAM vs. Guided Backprop vs. Saliency)
-├── Model reliability assessment under distribution shift
-├── Shortcut learning detection in medical imaging models
-└── Quantitative explainability metrics beyond visual inspection
-
-Agentic AI
-├── LangGraph stateful multi-step reasoning workflows
-├── Multi-agent systems with dynamic tool selection
-├── RAG pipeline design with structured knowledge retrieval
-└── LLM orchestration for autonomous research assistance
-
-Vision Transformers
-├── Attention attribution methods for ViT architectures
-├── Cross-architecture XAI comparison (CNN vs. ViT)
-└── Patch embedding interpretability analysis
-<br/>
-<br/>
-<!-- ──────────── FEATURED REPOSITORIES ──────────── -->
-<img src="https://img.shields.io/badge/-89B4FA?style=flat-square&logo=github&logoColor=0A0F1C" /> Featured Repositories
-Public work spans XAI research, medical imaging pipelines, and LLM/agentic systems. Each repository is built for reproducibility and utility to other researchers.
-<br/>
-<p align="center">
-  <!-- SmartAMR -->
-  <a href="https://github.com/ayushmanbhatt07/SmartAMR-AI-Based-Antibiotic-Resistance-Treatment-Recommendation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushmanbhatt07&repo=SmartAMR-AI-Based-Antibiotic-Resistance-Treatment-Recommendation&title_color=7AA2F7&text_color=CDD6F4&icon_color=CBA6F7&bg_color=0A0F1C&hide_border=true&border_radius=8" />
-  </a>
-  &nbsp;&nbsp;
-  <!-- LangChain Tutorial -->
-  <a href="https://github.com/ayushmanbhatt07/Langchain-Tutorial">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushmanbhatt07&repo=Langchain-Tutorial&title_color=7AA2F7&text_color=CDD6F4&icon_color=CBA6F7&bg_color=0A0F1C&hide_border=true&border_radius=8" />
-  </a>
-</p>
-<p align="center">
-  <!-- Data Science & ML -->
-  <a href="https://github.com/ayushmanbhatt07/DATA-SCIENCE-AND-MACHINE-LEARNING-WITH-PYTHON-2026">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushmanbhatt07&repo=DATA-SCIENCE-AND-MACHINE-LEARNING-WITH-PYTHON-2026&title_color=7AA2F7&text_color=CDD6F4&icon_color=CBA6F7&bg_color=0A0F1C&hide_border=true&border_radius=8" />
-  </a>
-</p>
-<br/>
-<br/>
-<!-- ──────────── KNOWLEDGE GRAPH ──────────── -->
-<img src="https://img.shields.io/badge/-CBA6F7?style=flat-square&logo=neo4j&logoColor=0A0F1C" /> Knowledge Graph
-plain
-AI Research
-├── Explainable AI
-│   ├── Grad-CAM & saliency methods
-│   ├── Guided Backpropagation
-│   └── Quantitative attribution evaluation
-├── Computer Vision
-│   ├── CNN architectures & transfer learning
-│   ├── Vision Transformers (ViT)
-│   └── Medical image analysis pipelines
-└── Trustworthy AI
-    ├── Shortcut learning detection
-    └── Model reliability & robustness
-
-LLM Engineering
-├── LangChain & LangGraph
-│   ├── Agentic workflow design
-│   └── Multi-agent orchestration
-├── RAG Systems
-│   ├── Retrieval pipeline architecture
-│   └── Knowledge-grounded generation
-└── Prompt Engineering & Tool Use
-    └── Structured reasoning & evaluation
-<br/>
-<br/>
-<!-- ──────────── TECH STACK ──────────── -->
-<img src="https://img.shields.io/badge/-94E2D5?style=flat-square&logo=codeigniter&logoColor=0A0F1C" /> Tech Stack
-<!-- ── LANGUAGES ── -->
-Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-0A0F1C?style=flat-square&logo=python&logoColor=7AA2F7" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/C++-0A0F1C?style=flat-square&logo=c%2B%2B&logoColor=89B4FA" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Java-0A0F1C?style=flat-square&logo=openjdk&logoColor=F7768E" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/C-0A0F1C?style=flat-square&logo=c&logoColor=CDD6F4" />
-</p>
-<!-- ── AI & DEEP LEARNING ── -->
-AI & Deep Learning
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-0A0F1C?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-0A0F1C?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Keras-0A0F1C?style=flat-square&logo=keras&logoColor=D00000" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/scikit--learn-0A0F1C?style=flat-square&logo=scikit-learn&logoColor=F7931E" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/NumPy-0A0F1C?style=flat-square&logo=numpy&logoColor=4D8CC0" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pandas-0A0F1C?style=flat-square&logo=pandas&logoColor=130654" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/SciPy-0A0F1C?style=flat-square&logo=scipy&logoColor=8CAAC0" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Matplotlib-0A0F1C?style=flat-square&logo=python&logoColor=11557C" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Plotly-0A0F1C?style=flat-square&logo=plotly&logoColor=239120" />
-</p>
-<!-- ── COMPUTER VISION ── -->
-Computer Vision & XAI
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-0A0F1C?style=flat-square&logo=opencv&logoColor=5C3EE8" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Grad--CAM-0A0F1C?style=flat-square&logo=pytorch&logoColor=7AA2F7" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pillow-0A0F1C?style=flat-square&logo=python&logoColor=8CAAC0" />
-</p>
-<!-- ── LLM & AGENTIC AI ── -->
-LLM & Agentic AI
-<p>
-  <img src="https://img.shields.io/badge/LangChain-0A0F1C?style=flat-square&logo=langchain&logoColor=1C3C3C" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/LangGraph-0A0F1C?style=flat-square&logo=langchain&logoColor=7AA2F7" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Hugging%20Face-0A0F1C?style=flat-square&logo=huggingface&logoColor=FFD21E" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/OpenAI-0A0F1C?style=flat-square&logo=openai&logoColor=74AA9C" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/RAG_Pipelines-0A0F1C?style=flat-square&logo=pinecone&logoColor=7AA2F7" />
-</p>
-<!-- ── BACKEND ── -->
-Backend
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-0A0F1C?style=flat-square&logo=fastapi&logoColor=009688" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Django-0A0F1C?style=flat-square&logo=django&logoColor=092E20" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/REST%20APIs-0A0F1C?style=flat-square&logo=swagger&logoColor=85EA2D" />
-</p>
-<!-- ── DATABASES ── -->
-Databases
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-0A0F1C?style=flat-square&logo=postgresql&logoColor=316192" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/MySQL-0A0F1C?style=flat-square&logo=mysql&logoColor=4479A1" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-0A0F1C?style=flat-square&logo=mongodb&logoColor=47A248" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/SQLite-0A0F1C?style=flat-square&logo=sqlite&logoColor=003B57" />
-</p>
-<!-- ── MLOps ── -->
-MLOps & Data Engineering
-<p>
-  <img src="https://img.shields.io/badge/MLflow-0A0F1C?style=flat-square&logo=mlflow&logoColor=0194E2" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Jupyter-0A0F1C?style=flat-square&logo=jupyter&logoColor=F37626" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Anaconda-0A0F1C?style=flat-square&logo=anaconda&logoColor=44A833" />
-</p>
-<!-- ── DEPLOYMENT ── -->
-Deployment & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Streamlit-0A0F1C?style=flat-square&logo=streamlit&logoColor=FF4B4B" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Render-0A0F1C?style=flat-square&logo=render&logoColor=46E3B7" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Firebase-0A0F1C?style=flat-square&logo=firebase&logoColor=DD2C00" />
-</p>
-<!-- ── DEV TOOLS ── -->
-Developer Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-0A0F1C?style=flat-square&logo=git&logoColor=F05032" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-0A0F1C?style=flat-square&logo=github&logoColor=CDD6F4" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/VS%20Code-0A0F1C?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Postman-0A0F1C?style=flat-square&logo=postman&logoColor=FF6C37" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Linux-0A0F1C?style=flat-square&logo=linux&logoColor=FCC624" />
-</p>
-<br/>
-<br/>
-<!-- ──────────── GITHUB ANALYTICS ──────────── -->
-<img src="https://img.shields.io/badge/-7AA2F7?style=flat-square&logo=chartdotjs&logoColor=0A0F1C" /> GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushmanbhatt07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=7AA2F7&icon_color=CBA6F7&text_color=CDD6F4&bg_color=0A0F1C&border_radius=8" width="49%" />
-  &nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ayushmanbhatt07&theme=tokyonight&hide_border=true&background=0A0F1C&ring=7AA2F7&fire=F7768E&currStreakLabel=7AA2F7&sideLabels=89B4FA&currStreakNum=CDD6F4&sideNums=CDD6F4&dates=6B7089&border_radius=8" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmanbhatt07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=7AA2F7&text_color=CDD6F4&bg_color=0A0F1C&border_radius=8" width="42%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushmanbhatt07&theme=tokyonight" width="98%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushmanbhatt07&bg_color=0A0F1C&color=7AA2F7&line=CBA6F7&point=94E2D5&area=true&hide_border=true&area_color=CBA6F715" width="98%" />
-</p>
-<br/>
-<br/>
-<!-- ──────────── CONTRIBUTION SNAKE ──────────── -->
-<img src="https://img.shields.io/badge/-94E2D5?style=flat-square&logo=spring-creators&logoColor=0A0F1C" /> Contribution Activity
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushmanbhatt07/ayushmanbhatt07/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushmanbhatt07/ayushmanbhatt07/output/github-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ayushmanbhatt07/ayushmanbhatt07/output/github-snake-dark.svg" />
-  </picture>
-</p>
-<br/>
-<br/>
-<!-- ──────────── CONNECT ──────────── -->
-<img src="https://img.shields.io/badge/-89B4FA?style=flat-square&logo=wechat&logoColor=0A0F1C" /> Connect
-<p align="center">
-  <a href="https://linkedin.com/in/ayushman-bhatt-564927343">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/ayushmanbhatt07">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-0A0F1C?style=flat-square&logo=github&logoColor=7AA2F7&labelColor=0A0F1C" />
+    <img src="https://img.shields.io/github/followers/ayushmanbhatt07?label=Followers&style=for-the-badge&color=7AA2F7&labelColor=1a1b27&logo=github" />
   </a>
   &nbsp;
-  <a href="https://github.com/ayushmanbhatt07/SmartAMR-AI-Based-Antibiotic-Resistance-Treatment-Recommendation">
-    <img src="https://img.shields.io/badge/SmartAMR-View_Project-0A0F1C?style=flat-square&logo=github&logoColor=94E2D5&labelColor=0A0F1C" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ayushmanbhatt07&label=Views&color=CBA6F7&style=for-the-badge" />
 </p>
+
+</div>
+
+---
+
+## `$ whoami`
+
+```python
+class AyushmanBhatt:
+    role        = "AI Research Engineer & LLM Systems Developer"
+    focus       = ["Explainable AI", "Medical Imaging", "Agentic AI", "LLM Engineering"]
+    researching = ["XAI Attribution Methods", "Model Reliability", "Shortcut Learning",
+                   "Vision Transformers", "Multi-Agent Architectures"]
+    building    = ["SmartAMR — AI-Based AMR Treatment Recommendation",
+                   "LangChain Agentic Systems", "RAG Pipelines", "Histopathology DL Pipelines"]
+    philosophy  = "AI systems must be accurate, interpretable, and trustworthy — not just performant."
+```
+
+---
+
+## Engineering Philosophy
+
+> *The measure of an AI system is not only what it predicts — but whether it can be understood, audited, and trusted.*
+
+I build at the intersection of research and engineering, guided by three principles:
+
+- **Interpretability is not optional.** Black-box accuracy is insufficient for high-stakes domains. Understanding *why* a model decides matters as much as *what* it decides.
+- **Reliability must be measurable.** Shortcut learning, distribution shift, and spurious correlations are not edge cases — they are the rule in real-world deployment.
+- **Research should lead deployment.** Engineering without research intuition produces brittle systems. I approach every project from first principles before touching implementation.
+
+---
+
+## Research Snapshot
+
+| Area | Focus |
+|---|---|
+| **Explainable AI** | Attribution methods · Grad-CAM · Guided Backpropagation · Quantitative faithfulness evaluation |
+| **Medical Imaging** | Histopathology classification · Stain normalization · Clinically interpretable CV systems |
+| **Agentic AI** | LangGraph workflows · Multi-agent orchestration · Tool-augmented reasoning |
+| **LLM Systems** | RAG pipelines · Prompt engineering · Hugging Face · Production LLM applications |
+| **Trustworthy AI** | Shortcut learning detection · Model reliability · Human-centered AI design |
+
+---
+
+## Current Research
+
+```
+Histopathology Classification
+├── CNN Models & Transfer Learning
+├── Stain Normalization
+├── Grad-CAM Visualization
+└── Guided Backpropagation
+
+Explainable AI
+├── Attribution Method Analysis
+├── Shortcut Learning Investigation
+├── Model Reliability Evaluation
+└── Quantitative XAI Benchmarking
+
+Agentic AI & LLM Systems
+├── LangGraph Stateful Workflows
+├── Multi-Agent Orchestration
+├── RAG Pipeline Design
+└── Prompt Engineering Systems
+```
+
+---
+
+## Featured Repositories
+
+<div align="center">
+
+[![SmartAMR](https://github-readme-stats.vercel.app/api/pin/?username=ayushmanbhatt07&repo=SmartAMR-AI-Based-Antibiotic-Resistance-Treatment-Recommendation&theme=tokyonight&hide_border=true&title_color=7AA2F7&icon_color=CBA6F7&text_color=CDD6F4&bg_color=1a1b27)](https://github.com/ayushmanbhatt07/SmartAMR-AI-Based-Antibiotic-Resistance-Treatment-Recommendation)
+&nbsp;
+[![LangChain Tutorial](https://github-readme-stats.vercel.app/api/pin/?username=ayushmanbhatt07&repo=Langchain-Tutorial&theme=tokyonight&hide_border=true&title_color=7AA2F7&icon_color=CBA6F7&text_color=CDD6F4&bg_color=1a1b27)](https://github.com/ayushmanbhatt07/Langchain-Tutorial)
+
 <br/>
-<p align="center">
-  <i>Open to research collaborations, AI engineering roles, and conversations about interpretability, trustworthy AI, and agentic systems.</i>
-</p>
+
+[![Data Science & ML](https://github-readme-stats.vercel.app/api/pin/?username=ayushmanbhatt07&repo=DATA-SCIENCE-AND-MACHINE-LEARNING-WITH-PYTHON-2026&theme=tokyonight&hide_border=true&title_color=7AA2F7&icon_color=CBA6F7&text_color=CDD6F4&bg_color=1a1b27)](https://github.com/ayushmanbhatt07/DATA-SCIENCE-AND-MACHINE-LEARNING-WITH-PYTHON-2026)
+
+</div>
+
+---
+
+## Knowledge Graph
+
+```
+AI Research                          LLM Engineering
+├── Explainable AI (XAI)             ├── LangChain & LangGraph
+│   ├── Grad-CAM                     │   ├── Agentic Workflow Design
+│   └── Guided Backpropagation       │   └── Multi-Agent Orchestration
+├── Computer Vision                  ├── RAG Systems
+│   ├── CNN Architectures            │   └── Knowledge-Grounded Generation
+│   ├── Vision Transformers          └── Prompt Engineering
+│   └── Medical Image Analysis           └── Systematic Evaluation
+└── Trustworthy AI
+    ├── Shortcut Learning
+    └── Model Reliability
+```
+
+---
+
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### AI & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Computer Vision & XAI
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Grad-CAM](https://img.shields.io/badge/Grad--CAM-7AA2F7?style=for-the-badge&logo=pytorch&logoColor=white)
+![Guided Backprop](https://img.shields.io/badge/Guided_Backprop-CBA6F7?style=for-the-badge&logo=pytorch&logoColor=white)
+![Medical Imaging](https://img.shields.io/badge/Medical_Imaging-94E2D5?style=for-the-badge&logo=github&logoColor=1a1b27)
+
+### LLM & Agentic AI
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-7AA2F7?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-CBA6F7?style=for-the-badge&logo=buffer&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-94E2D5?style=for-the-badge&logo=openai&logoColor=1a1b27)
+![AI Agents](https://img.shields.io/badge/AI_Agents-89B4FA?style=for-the-badge&logo=buffer&logoColor=white)
+
+### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-1a1b27?style=for-the-badge&logo=jsonwebtokens&logoColor=7AA2F7)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+
+### MLOps
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+### Deployment
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+
+### Developer Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+## Currently Learning
+
+```
+▸  Vision Transformers (ViT) — attention mechanisms, patch embeddings, cross-architecture interpretability
+▸  Quantitative XAI Evaluation — faithfulness metrics, localization benchmarks, sanity checks
+▸  Advanced LangGraph — stateful agents, conditional edges, human-in-the-loop workflows
+▸  MLOps — experiment tracking, model registry, reproducible ML pipelines
+▸  AI Safety Fundamentals — alignment research, specification gaming, interpretable decision boundaries
+```
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayushmanbhatt07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=7AA2F7&icon_color=CBA6F7&text_color=CDD6F4&bg_color=1a1b27" width="49%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=ayushmanbhatt07&theme=tokyonight&hide_border=true&background=1a1b27&ring=7AA2F7&fire=CBA6F7&currStreakLabel=7AA2F7&sideLabels=89B4FA&currStreakNum=CDD6F4&sideNums=CDD6F4&dates=565f89" width="49%" />
+
 <br/>
-<!-- ──────────── FOOTER ──────────── -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:24283b,100:1a1b2f&height=120&section=footer&text=Building%20trustworthy%20AI%20through%20rigorous%20research&fontSize=12&fontColor=6B7089&fontAlignY=75&animation=fadeIn" width="100%" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushmanbhatt07&label=Profile%20Views&color=7AA2F7&style=flat-square" />
-</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmanbhatt07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=7AA2F7&text_color=CDD6F4&bg_color=1a1b27" width="40%" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushmanbhatt07&theme=tokyonight" width="54%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushmanbhatt07&bg_color=1a1b27&color=7AA2F7&line=CBA6F7&point=94E2D5&area=true&hide_border=true" width="98%" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushmanbhatt07/ayushmanbhatt07/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushmanbhatt07/ayushmanbhatt07/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ayushmanbhatt07/ayushmanbhatt07/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+> To activate: add a [GitHub Actions workflow](https://github.com/Platane/snk) to your profile repo — one YAML file, five minutes.
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ayushman-bhatt-564927343">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ayushmanbhatt07">
+  <img src="https://img.shields.io/badge/GitHub-Follow-1a1b27?style=for-the-badge&logo=github&logoColor=7AA2F7" />
+</a>
+
+<br/><br/>
+
+*Open to research collaborations, AI engineering roles, and conversations about interpretability, trustworthy AI, and agentic systems.*
+
+</div>
+
+---
+
+<div align="center">
+
+**Building trustworthy AI systems through interpretability research, rigorous experimentation, agentic architectures, and principled machine learning engineering.**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ayushmanbhatt07&label=Profile+Views&color=7AA2F7&style=flat-square" />
+
+</div>
