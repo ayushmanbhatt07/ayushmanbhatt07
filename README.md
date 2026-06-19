@@ -1,28 +1,25 @@
 <div align="center">
 
-<!-- Animated Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&height=60&lines=Ayushman+Bhatt;AI+Research+Engineer+%7C+LLM+Engineer;Computer+Vision+%26+Explainable+AI+Researcher;Agentic+AI+%26+LLM+Systems+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=820&height=56&lines=Ayushman+Bhatt;AI+Research+Engineer+%7C+Computer+Vision;Explainable+AI+%7C+Medical+Imaging+Research;LLM+%26+Agentic+AI+Systems+Builder)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Tagline -->
 <p>
-  <img src="https://img.shields.io/badge/Focus-Explainable%20AI%20%7C%20Medical%20Imaging%20%7C%20Agentic%20Systems-58A6FF?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Research-Explainable%20AI%20%7C%20Medical%20Imaging%20%7C%20Trustworthy%20AI-58A6FF?style=flat-square&labelColor=0d1117&color=58A6FF" />
+&nbsp;
+<img src="https://img.shields.io/badge/Engineering-LLM%20Systems%20%7C%20Agentic%20AI%20%7C%20Computer%20Vision-7C3AED?style=flat-square&labelColor=0d1117&color=7C3AED" />
 </p>
 
-<!-- Profile Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/ayushman-bhatt-564927343">
     <img src="https://img.shields.io/badge/LinkedIn-Ayushman%20Bhatt-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/ayushmanbhatt07">
-    <img src="https://img.shields.io/github/followers/ayushmanbhatt07?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0d1117&logo=github" />
+    <img src="https://img.shields.io/github/followers/ayushmanbhatt07?label=GitHub+Followers&style=for-the-badge&color=58A6FF&labelColor=0d1117&logo=github" />
   </a>
   &nbsp;
-  <a href="https://github.com/ayushmanbhatt07">
-    <img src="https://komarev.com/ghpvc/?username=ayushmanbhatt07&label=Profile+Views&color=7C3AED&style=for-the-badge" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ayushmanbhatt07&label=Profile+Views&color=7C3AED&style=for-the-badge" />
 </p>
 
 </div>
@@ -44,13 +41,28 @@ class AyushmanBhatt:
 
 ---
 
-## About
+## Engineering Philosophy
 
-I am an AI Engineer and researcher focused on building intelligent systems that are not only accurate, but **interpretable**, **reliable**, and **deployable** in real-world environments.
+> *The measure of an AI system is not only what it predicts — but whether it can be understood, audited, and trusted.*
 
-My work sits at the intersection of **Explainable AI**, **Computer Vision**, **Medical Imaging**, and **Agentic LLM Systems**. I study how neural networks make decisions — and design systems that humans can genuinely understand and trust.
+I build at the intersection of research and engineering. Every model I train, every system I design, and every experiment I run is guided by three principles:
 
-I approach AI from a research-first perspective: rigorous in experimental design, precise in evaluation, and intentional about the problems I choose to solve.
+- **Interpretability is not optional.** Black-box accuracy is insufficient for high-stakes domains. Understanding *why* a model decides matters as much as *what* it decides.
+- **Reliability must be measurable.** Shortcut learning, distribution shift, and spurious correlations are not edge cases — they are the rule in real-world deployment. I study and test for them systematically.
+- **Research should lead deployment.** Engineering without research intuition produces brittle systems. I approach every project from first principles before touching implementation.
+
+---
+
+## At a Glance
+
+<div align="center">
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| **3+** | **4** | **40+** | **7** |
+| Research Projects | AI Domains | Technologies | Research Interests |
+
+</div>
 
 ---
 
@@ -85,7 +97,7 @@ Building multi-agent workflows using LangGraph and LangChain. Designing systems 
 
 **🧠 LLM Engineering**
 
-Developing production-grade LLM applications with Retrieval-Augmented Generation (RAG), Prompt Engineering pipelines, and Hugging Face model integrations for intelligent real-world applications.
+Developing production-grade LLM applications with Retrieval-Augmented Generation (RAG), structured Prompt Engineering pipelines, and Hugging Face model integrations for intelligent real-world applications.
 
 </td>
 </tr>
@@ -93,21 +105,76 @@ Developing production-grade LLM applications with Retrieval-Augmented Generation
 
 ---
 
+## Research Highlights
+
+> Work at the boundary of deep learning interpretability, medical AI, and agentic systems.
+
+| Project | Domain | Methods | Status |
+|---|---|---|---|
+| **Histopathology Cancer Classification** | Medical Imaging · Computer Vision | CNN, Stain Normalization, Transfer Learning | 🟢 Active |
+| **Explainable AI Analysis** | XAI · Model Interpretability | Grad-CAM, Guided Backpropagation, Saliency Maps | 🟢 Active |
+| **Model Reliability Investigation** | Trustworthy AI · DL Research | Shortcut Learning Detection, Failure Mode Analysis | 🟢 Active |
+| **Agentic Research Assistant** | LLM Engineering · Multi-Agent AI | LangGraph, LangChain, RAG, Tool Orchestration | 🔵 Building |
+| **LLM Prompt Studio** | LLM Systems · Prompt Engineering | Hugging Face, Streamlit, Systematic Evaluation | 🔵 Building |
+| **ViT Interpretability Study** | XAI · Vision Transformers | Attention Attribution, Cross-architecture XAI | 🟡 Planned |
+
+---
+
 ## Research Interests
 
-> My research is driven by a core question: **How do we build AI systems that are both capable and comprehensible?**
+> Driven by a core question: **How do we build AI systems that are both capable and comprehensible?**
 
 | Domain | Focus Areas |
 |---|---|
-| **Explainable AI (XAI)** | Attribution methods, saliency maps, concept-based explanations, CNN interpretability |
-| **Model Reliability** | Shortcut learning, distribution shift, robustness evaluation, failure analysis |
-| **Medical Image Analysis** | Histopathology classification, stain normalization, domain-adaptive CV systems |
+| **Explainable AI (XAI)** | Grad-CAM, Guided Backpropagation, attribution methods, saliency analysis, CNN interpretability |
+| **Model Reliability** | Shortcut learning, distribution shift, robustness evaluation, systematic failure analysis |
+| **Medical Image Analysis** | Histopathology classification, stain normalization, domain-adaptive computer vision |
 | **Computer Vision** | CNNs, Vision Transformers (ViT), feature extraction, visual representation learning |
-| **Trustworthy AI** | Fairness, reliability, human-centered AI, clinically deployable systems |
-| **LLM & Agentic Systems** | Multi-agent architectures, RAG pipelines, LLM reasoning, tool-augmented agents |
-| **AI Safety** | Model alignment, interpretable decision boundaries, responsible AI deployment |
+| **Trustworthy AI** | Fairness evaluation, human-centered AI, clinically deployable intelligent systems |
+| **LLM & Agentic Systems** | Multi-agent architectures, RAG pipelines, LLM reasoning chains, tool-augmented agents |
+| **AI Safety** | Interpretable decision boundaries, alignment-aware model design, responsible deployment |
 
-I am particularly interested in how **explainability and reliability** can be systematically evaluated — moving beyond qualitative visualizations toward rigorous, quantitative interpretability research.
+I am particularly interested in moving explainability research beyond qualitative heatmaps toward **rigorous, quantitative attribution evaluation** — building metrics that can meaningfully distinguish reliable explanations from misleading ones.
+
+---
+
+## Knowledge Graph
+
+```
+AI Research
+├── Explainable AI (XAI)
+│   ├── Grad-CAM & Saliency Methods
+│   ├── Guided Backpropagation
+│   ├── Feature Attribution Analysis
+│   └── Quantitative Explainability Evaluation
+├── Computer Vision
+│   ├── CNN Architectures
+│   ├── Vision Transformers (ViT)
+│   └── Medical Image Analysis
+├── Trustworthy AI
+│   ├── Shortcut Learning Detection
+│   ├── Model Reliability Analysis
+│   └── Human-Centered AI Design
+└── Deep Learning Research
+    ├── Transfer Learning
+    ├── Domain Generalization
+    └── Experimental Design
+
+LLM Engineering
+├── LangChain & LangGraph
+│   ├── Agentic Workflow Design
+│   ├── Multi-Agent Orchestration
+│   └── Tool-Augmented Reasoning
+├── RAG Systems
+│   ├── Retrieval Pipeline Design
+│   └── Knowledge-Grounded Generation
+├── Prompt Engineering
+│   ├── Systematic Prompt Evaluation
+│   └── Structured Reasoning Prompts
+└── LLM Application Development
+    ├── Hugging Face Integration
+    └── Production API Design
+```
 
 ---
 
@@ -117,10 +184,10 @@ I am particularly interested in how **explainability and reliability** can be sy
 <tr>
 <td width="50%" valign="top">
 
-### 🧬 Histopathology Cancer Classification with XAI
-> `Deep Learning` `Medical Imaging` `Explainable AI`
+### 🧬 Histopathology Cancer Classification + XAI
+> `Deep Learning` · `Medical Imaging` · `Explainable AI`
 
-End-to-end CNN-based pipeline for histopathological cancer classification with integrated explainability analysis using Grad-CAM and Guided Backpropagation. Includes stain normalization preprocessing and model reliability evaluation.
+End-to-end CNN pipeline for histopathological cancer classification with integrated explainability using Grad-CAM and Guided Backpropagation. Includes stain normalization preprocessing and systematic model reliability evaluation.
 
 **Stack:** `PyTorch` `OpenCV` `Grad-CAM` `Scikit-Learn` `Matplotlib`
 
@@ -130,9 +197,9 @@ End-to-end CNN-based pipeline for histopathological cancer classification with i
 <td width="50%" valign="top">
 
 ### 🤖 Agentic AI Research Assistant
-> `LangGraph` `LangChain` `Multi-Agent Systems`
+> `LangGraph` · `LangChain` · `Multi-Agent Systems`
 
-Multi-step agentic system built with LangGraph and LangChain. Supports dynamic tool selection, autonomous task planning, and structured reasoning pipelines for research and knowledge synthesis workflows.
+Multi-step agentic system with dynamic tool selection, autonomous task planning, and structured reasoning pipelines. Designed for research synthesis and knowledge-intensive multi-hop workflows.
 
 **Stack:** `LangGraph` `LangChain` `Python` `FastAPI` `RAG`
 
@@ -144,9 +211,9 @@ Multi-step agentic system built with LangGraph and LangChain. Supports dynamic t
 <td width="50%" valign="top">
 
 ### 💬 LLM Prompt Studio
-> `Prompt Engineering` `Hugging Face` `Streamlit`
+> `Prompt Engineering` · `Hugging Face` · `Streamlit`
 
-Interactive platform for systematic prompt engineering, evaluation, and LLM application development. Enables structured experimentation with Hugging Face models and comparison of prompting strategies.
+Interactive platform for systematic prompt engineering and LLM evaluation. Enables structured experimentation with Hugging Face models and comparative analysis of prompting strategies across tasks.
 
 **Stack:** `Hugging Face` `Streamlit` `Python` `Plotly`
 
@@ -155,18 +222,54 @@ Interactive platform for systematic prompt engineering, evaluation, and LLM appl
 </td>
 <td width="50%" valign="top">
 
-### 🔭 Upcoming Research Project
-> `Vision Transformers` `XAI` `In Progress`
+### 🔭 ViT Interpretability Research
+> `Vision Transformers` · `XAI` · `In Progress`
 
-Research in progress — exploring interpretability methods for Vision Transformer architectures. Investigating attention-based attribution analysis and comparison against CNN saliency methods.
+Investigating interpretability methods for Vision Transformer architectures. Comparing attention-based attribution against CNN saliency methods — studying whether ViT explanations are more faithful than CNN-based equivalents.
 
-**Stack:** `PyTorch` `ViT` `Grad-CAM` `Research`
+**Stack:** `PyTorch` `ViT` `Grad-CAM` `Attention Rollout`
 
 [![Status](https://img.shields.io/badge/Status-In_Progress-F59E0B?style=flat-square)](https://github.com/ayushmanbhatt07)
 
 </td>
 </tr>
 </table>
+
+---
+
+## Currently Building
+
+```
+◈  Agentic AI pipelines with LangGraph — stateful, multi-step, tool-augmented reasoning systems
+◈  Histopathology analysis pipeline — CNN classification with stain normalization & XAI overlay
+◈  Explainability evaluation framework — quantitative benchmarking of attribution methods
+◈  RAG-powered research assistant — LLM grounded in structured knowledge retrieval
+◈  LLM Prompt Studio — systematic prompt experimentation and evaluation platform
+```
+
+---
+
+## Research Roadmap
+
+```
+2024 ──────────────────────────────────────────────────────
+        Deep Learning Foundations
+        Computer Vision · CNNs · PyTorch · Transfer Learning
+
+2025 ──────────────────────────────────────────────────────
+        Explainable AI & Medical Imaging
+        Grad-CAM · Guided Backprop · Histopathology · XAI Research
+        Model Reliability · Shortcut Learning Investigation
+
+2026 ──────────────────────────────────────────────────────  ◀ NOW
+        LLM Systems & Agentic AI Engineering
+        LangChain · LangGraph · RAG · Multi-Agent Architectures
+        Vision Transformers · Quantitative Explainability
+
+Future ─────────────────────────────────────────────────────
+        Trustworthy AI & AI Safety Research
+        Alignment-Aware Systems · Production AI · Research Publications
+```
 
 ---
 
@@ -237,14 +340,24 @@ Research in progress — exploring interpretability methods for Vision Transform
 ## Currently Learning
 
 ```
-▸ Advanced LLM Systems & Prompt Architecture
-▸ Multi-Agent Architectures & LangGraph Workflows
-▸ Vision Transformers (ViT) & Attention Mechanisms
-▸ Quantitative Explainability Evaluation Methods
-▸ MLOps — Experiment Tracking, Model Registry, CI/CD for ML
-▸ Production AI Systems & Scalable Deployment Patterns
-▸ AI Safety & Alignment Research Fundamentals
+▸  Vision Transformers (ViT) — attention mechanisms, patch embeddings, cross-architecture interpretability
+▸  Quantitative XAI Evaluation — faithfulness metrics, localization benchmarks, sanity checks
+▸  Multi-Agent System Design — stateful graphs, memory management, agent coordination patterns
+▸  Advanced LangGraph — conditional edges, human-in-the-loop workflows, persistent agent state
+▸  MLOps Engineering — experiment tracking, model registry, reproducible ML pipelines
+▸  Production AI Systems — scalable inference, API design, monitoring, deployment hardening
+▸  AI Safety Fundamentals — alignment research, specification gaming, interpretable decision boundaries
 ```
+
+---
+
+## Open Source Journey
+
+I build in public. Every repository reflects an active research question or a system built to solve a real problem — not tutorial reproductions.
+
+My open-source work follows a research-to-engineering pipeline: identify a problem in AI reliability or intelligent system design → study it rigorously → build a clean, documented implementation → publish findings.
+
+Current public work spans **XAI research**, **medical imaging pipelines**, **agentic LLM systems**, and **LLM application development**. Each project is designed to be modular, reproducible, and useful to other researchers and engineers.
 
 ---
 
@@ -257,19 +370,29 @@ Research in progress — exploring interpretability methods for Vision Transform
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmanbhatt07&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmanbhatt07&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" width="42%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushmanbhatt07&bg_color=0d1117&color=58A6FF&line=7C3AED&point=F59E0B&area=true&hide_border=true" width="98%" />
 
 </div>
 
 ---
 
-## GitHub Trophies
+## Contribution Activity
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=ayushmanbhatt07&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushmanbhatt07/ayushmanbhatt07/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushmanbhatt07/ayushmanbhatt07/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ayushmanbhatt07/ayushmanbhatt07/output/github-snake-dark.svg" />
+</picture>
 
 </div>
+
+> **Note:** To activate the contribution snake animation, add a GitHub Actions workflow to your profile repo. See [platane/snk](https://github.com/Platane/snk) for a one-file setup.
 
 ---
 
@@ -278,25 +401,27 @@ Research in progress — exploring interpretability methods for Vision Transform
 <div align="center">
 
 <a href="https://linkedin.com/in/ayushman-bhatt-564927343">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/ayushmanbhatt07">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
+*Open to research collaborations, AI engineering roles, and conversations about interpretability, trustworthy AI, and agentic systems.*
+
+</div>
 
 ---
 
 <div align="center">
 
-*Building trustworthy AI systems through interpretability research, rigorous experimentation, agentic architectures, and real-world machine learning engineering.*
+**Building trustworthy AI systems through interpretability research, rigorous experimentation, agentic architectures, and principled machine learning engineering.**
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=ayushmanbhatt07&icon=6&color=9&style=flat-square)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=ayushmanbhatt07&label=Profile+Views&color=58A6FF&style=flat-square" />
 
 </div>
